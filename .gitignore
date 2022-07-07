@@ -136,3 +136,5 @@ dmypy.json
 # Local database
 *.db
 *.sqlite*
+
+.idea
